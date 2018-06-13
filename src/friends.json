@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image": "https://i.pinimg.com/736x/9a/d9/09/9ad90912b74ff02b4ee3bb04f964c8b1--bingo-loteria-cards.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image": "https://nicholaspicolas.neocities.org/spears.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image": "https://i.pinimg.com/originals/13/80/24/13802479bfad7792215c6ad57500293b.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "image": "https://i.pinimg.com/originals/df/fd/c3/dffdc3498a7ee63bcb4a2687158daa52.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 5,
+    "name": "Courage",
+    "image": "https://i.pinimg.com/736x/a5/84/f9/a584f91122f226de4d7d5a432423dbef--sun-art-mexican-folk-art.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 6,
+    "name": "Doug Funnie",
+    "image": "https://s-media-cache-ak0.pinimg.com/236x/eb/58/b5/eb58b5919c27b28699b14e6babc8901f.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "https://i.pinimg.com/236x/07/7a/0b/077a0beae60a271ff00c7cc51247176c--mexican-pizza-the-star.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 8,
+    "name": "Johnny Bravo",
+    "image": "https://i.pinimg.com/736x/1f/23/e0/1f23e00450d79c25a34ce502b73ee968--loteria-cards-good-luck-with.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 9,
+    "name": "Tommy Pickles",
+    "image": "https://www.commfound.org/files/imagecache/blog-medium-250wide/El%20Corazon%20Image.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 10,
+    "name": "Rocko",
+    "image": "https://i.pinimg.com/736x/e0/b1/99/e0b199537371569a5e642cf13ee67193--mexican-design-bingo-cards.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 11,
+    "name": "Captain Planet",
+    "image": "https://i.pinimg.com/originals/0e/92/cd/0e92cddd04d8a539545dc6fd1ccaebcb.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 12,
+    "name": "Ickis",
+    "image": "https://i.pinimg.com/564x/ef/3a/74/ef3a747c2c0d82b1f09586dfc769afda.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  }
+]
